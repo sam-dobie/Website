@@ -1,0 +1,101 @@
+#greeting {
+    display: flex;
+    display: block;
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+* {
+    color: white;
+    box-sizing: border-box;
+}
+
+
+#lorem > p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+#div > p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline-block;
+    display: flex;
+    justify-content: center;;
+}
+
+ul {
+    background-color: black;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    
+    justify-content: center;
+    color: black;
+    
+}
+
+li {
+    display: block;
+    color: white;
+    text-align: center;
+    margin-right: 60px;
+    margin-top: 7px
+    
+    
+
+}
+
+img {
+   
+    height: 200px;
+    width: 200px;
+}
+
+.row {
+    display: flex;
+    
+    justify-content: space-evenly;
+    
+}
+
+.column {
+    margin: 10px;;
+}
+
+
+
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#link1, #link2, #link3 {
+    margin: 5px;
+}
+
+
+.navbar {
+    background-color: black;
+
+}
+
+.page {
+    background-color: grey;
+}
+
+.section {
+    background-color: black;
+}
+
+#big, #miles, #opeth, #sabbath {
+    background-color: black;
+}
